@@ -6,12 +6,12 @@
 
 # 👋 Hi there, I'm Rachel!  
 
-🔭 I’m currently working on my **PhD** in the **Warren Acoustic Lab for Ecological Studies** at **Stony Brook University**.  
-🌱 I’m currently learning **Physical & Biological Oceanography**.  
-🤔 I’m looking for help with **applications of machine learning to acoustics and images**.  
+🔭 I’m currently working on my **PhD** in the **Warren Acoustic Lab for Ecological Studies** at **Stony Brook University**  
+🌱 I’m currently learning **Physical & Biological Oceanography**  
+🤔 I’m looking for help with **applications of machine learning to acoustics and images**  
 💬 Ask me about **coffee, acoustics, and ecology!**  
 📫 How to reach me: **rachel.deahl@stonybrook.edu**  
-📰 I'm interested in science communication and serve as the **Media Director** for [SBU Graduate Arts & Sciences Magazine](https://www.sbugradmag.com/home).
+📰 I'm interested in science communication and serve as the **Media Director** for [SBU Graduate Arts & Sciences Magazine](https://www.sbugradmag.com/home)
 
 ⚡ Fun fact: I hiked the Grand Canyon on a sprained ankle! 
 
