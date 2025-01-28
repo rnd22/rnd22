@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a **PhD Student** in Marine Science at **Stony
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/mohammed-hamza-malik/](https://www.linkedin.com/in/rachelnkostelnik/)
+- [LinkedIn](https://www.linkedin.com/in/rachelnkostelnik/)
 - [Twitter](https://www.linkedin.com/in/rachelnkostelnik/)
 - [Website](https://rnd22.github.io/)
 
