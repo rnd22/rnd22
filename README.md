@@ -1,19 +1,12 @@
 ## Hi there 👋
 
-<!--
-**rnd22/rnd22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my PhD in the Warren Acoustic Lab for Ecological Studies at Stony Brook University
+- 🌱 I’m currently learning Physical & Biological Oceanography
+- 🤔 I’m looking for help with applications of machine learning to acoustics and images
+- 💬 Ask me about coffee, acoustics, and ecology!
+- 📫 How to reach me: rachel.deahl@stonybrook.edu
+- ⚡ Fun fact: I hiked the Grand Canyon on a sprained ankle! 
 
 # Hi there, I'm Rachel! 👋
 
@@ -34,6 +27,10 @@ Welcome to my GitHub profile! I'm a **PhD Student** in Marine Science at **Stony
 </div>
 
 ---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rnd22&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=rnd22)
+
 
 ---
 
