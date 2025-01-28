@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rnd22&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rnd22&style=flat-square&color=pink" alt="Profile Views" />
 </p>
 
 ---
