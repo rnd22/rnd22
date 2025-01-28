@@ -95,8 +95,9 @@
 ## 🏆 GitHub Profile Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rnd22&theme=radical&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rnd22&theme=radical&no-bg=true&no-frame=true&rank=S,A" />
 </p>
+
 
 ---
 
