@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
-### 📦 Packages  
+### 📦 Frameworks & Libraries  
 <p>
   <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
   <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -47,6 +47,22 @@
   <img src="https://img.shields.io/badge/-Sparklyr-4EA94B?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
+### 🗄️ Databases & Cloud Hosting  
+<p>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />
+</p>
+
+### 🛠️ Software & Tools  
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Quarto-4682B4?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
 ### 🔬 Lab Skills  
 <p>
   <img src="https://img.shields.io/badge/-Pit%20Tagging-8A2BE2?style=for-the-badge" />
@@ -56,15 +72,17 @@
   <img src="https://img.shields.io/badge/-Deploying%20Scientific%20Equipment-228B22?style=for-the-badge" />
 </p>
 
-### 🌍 Socials  
-<p>
-  <a href="https://twitter.com/rachelnkostelnik"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rachelnkostelnik/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rachel.deahl@stonybrook.edu"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/el_the_ecologist/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://medium.com/@el_the_ecologist"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://substack.com/@eltheecologist"><img src="https://img.shields.io/badge/-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a>
-  <a href="https://www.researchgate.net/profile/Rachel-Deahl"><img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /></a>
+---
+
+## 📊 My GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rnd22&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rnd22&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnd22&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -73,6 +91,20 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rnd22&theme=radical&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+### 🌍 Socials  
+
+<p>
+  <a href="https://twitter.com/rachelnkostelnik"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rachelnkostelnik/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rachel.deahl@stonybrook.edu"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/el_the_ecologist/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://medium.com/@el_the_ecologist"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://substack.com/@eltheecologist"><img src="https://img.shields.io/badge/-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a>
+  <a href="https://www.researchgate.net/profile/Rachel-Deahl?ev=hdr_xprf"><img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /></a>
 </p>
 
 ---
