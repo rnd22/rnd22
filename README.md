@@ -8,7 +8,7 @@
 
 🔭 I’m currently working on my **PhD** in the **Warren Acoustic Lab for Ecological Studies** at **Stony Brook University**  
 🌱 I’m currently learning **Bioacoustics & Ecosystem Science for Fisheries**  
-🤔 I’m looking for help with **applications of machine learning to acoustics and images**  
+🤔 I’m looking for help with **applications of machine learning to acoustics and image representations of audio**  
 💬 Ask me about **coffee, acoustics, and ecology!**  
 📫 How to reach me: **rachel.deahl@stonybrook.edu**  
 ⚡ Fun fact: I hiked the Grand Canyon on a sprained ankle! 
