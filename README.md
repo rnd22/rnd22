@@ -7,7 +7,7 @@
 # 👋 Hi there, I'm Rachel!  
 
 🔭 I’m currently working on my **PhD** in the **Warren Acoustic Lab for Ecological Studies** at **Stony Brook University**  
-🌱 I’m currently learning **Fisheries Stock Assessment**  
+🌱 I’m currently learning **Statistics & Experimental Design**  
 🤔 I’m looking for help with **applications of machine learning to acoustics and image representations of audio**  
 💬 Ask me about **coffee, acoustics, and ecology!**  
 📫 How to reach me: **rachel.deahl@stonybrook.edu**  
